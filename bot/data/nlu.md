@@ -140,17 +140,13 @@
 
 ## intent:genero
 - voce é [homem ou mulher](genero)
-- voce é [macho ou femea](genero)
 - qual o seu [sexo](genero)
-- voce e [mulher](genero)
-- voce e um [homem](genero)
-- você é um [homem](genero)
 - voce tem [genero](genero)
 - voce faz [sexo](genero)
-- voce tem um [penis ou uma vagina](genero)
-- você é uma mulher
-- você é andrógeno
-- voce e androgeno
+- você é uma mulher cis
+- você é um homem cis
+- você é não-binário
+- você é trans
 
 ## intent:playlist
 - me indica uma música
